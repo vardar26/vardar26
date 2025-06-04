@@ -16,10 +16,7 @@
 - 🔧 Maven
 ## 📊 GitHub Stats
 
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin?username=vardar26&repo=github-readme-stats)](https://github.com/vardar26/github-readme-stats)
-
-api/pin?username=mustafacagri&repo=github-readme-stats
-
+[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=vardar26)](https://github.com/vardar26/github-readme-stats)
 ## 🌐 Connect With Me
 LinkedIn https://www.linkedin.com/in/emrahvardar 
 
