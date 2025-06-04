@@ -1,4 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Emrah Vardar!
+
+🎯 Front-End Web Developer | 💻 Java Enthusiast | 🌍 Lifelong Learner
+
+## 🚀 About Me
+- 🔭 I’m currently working through the **Patika+ Front-End Web Developer** course
+- 🌱 Continuously learning Java, Spring Boot, Hybernate, and modern web tech
+- 💬 Ask me about Java, Web Development
+- 📫 How to reach me: emrahvardar26@gmail.com
+
+## 📊 GitHub Stats
+![Emrah's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrahvardar&show_icons=true&theme=tokyonight)
+
+## 🌐 Connect With Me
+LinkedIn https://www.linkedin.com/in/emrahvardar
+mail emrahvardar26@gmail.com
+
 
 <!--
 **vardar26/vardar26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
