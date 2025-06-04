@@ -8,9 +8,18 @@
 - 💬 Ask me about Java, Web Development
 - 📫 How to reach me: emrahvardar26@gmail.com
 
+## 🧰 Tech Stack I Use in Java Projects
+
+- ⚙️ Java SE, OOP, Collections, Exception Handling
+- 🌱 Spring Boot, Spring MVC, Spring Data JPA
+- 🗃️ Hibernate ORM, PostgreSQL, H2
+- 🔧 Maven
 ## 📊 GitHub Stats
 
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=vardar26&repo=github-readme-stats)](https://github.com/vardar26/github-readme-stats)
+[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin?username=vardar26&repo=github-readme-stats)](https://github.com/vardar26/github-readme-stats)
+
+api/pin?username=mustafacagri&repo=github-readme-stats
+
 ## 🌐 Connect With Me
 LinkedIn https://www.linkedin.com/in/emrahvardar 
 
