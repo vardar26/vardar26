@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Stats
 
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=vardar26&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=vardar26&repo=github-readme-stats)](https://github.com/vardar26/github-readme-stats)
 ## 🌐 Connect With Me
 LinkedIn https://www.linkedin.com/in/emrahvardar
 mail emrahvardar26@gmail.com
