@@ -11,6 +11,7 @@
 ## 📊 GitHub Stats
 ![Emrah's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrahvardar&show_icons=true&theme=tokyonight)
 
+[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ## 🌐 Connect With Me
 LinkedIn https://www.linkedin.com/in/emrahvardar
 mail emrahvardar26@gmail.com
